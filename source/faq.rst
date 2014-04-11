@@ -11,9 +11,8 @@ What is ObjectRocket?
 
 ObjectRocket is the next generation cloud database. We've built a
 Industrial Strength platform specifically for MongoDB using state of the art
-hardware like Solid State Disks (SSDs) so that you never have to worry about
-performance, geo-diverse colocations so you never have to worry about backups
-and instant on capacity so that you can scale instantly.
+hardware, e.g. SSDs, PCIe Flash,  so that you never have to worry about
+performance and instant on capacity so that you can scale instantly.
 
 
 What do we manage?
@@ -216,4 +215,4 @@ ObjectRocket strives to deliver the best hosted MongoDB service possible.
 As part of this, we do maintain some customizations to the software itself.
 As per the AGPL, we make these available to anyone wishing to examine, run,
 or otherwise participate! Find the repository in GitHub at:
-https://github.com/objectrocket/mongodb-2.2-objectrocket
+https://github.com/objectrocket/
